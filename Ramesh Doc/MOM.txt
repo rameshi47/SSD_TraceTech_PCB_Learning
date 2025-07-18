@@ -1,0 +1,7 @@
+21-5-25
+
+footprint creation without landpattern.
+Creating footprint via Package symbol (wizard).
+Schematic work flow (Library -> Design -> BOM -> Netlist).
+Padstack Doc(Done)
+Allegro Doc (Pending) Schematic Doc (Pending). 
